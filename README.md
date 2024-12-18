@@ -2,9 +2,13 @@
 
 # List of the functions
 
-## CADsim
+## CADsim.m
 
 Function to perform the classical simulation of a noisy state ensemble, given a fixed set of unitaries for the simulation boxes.
+
+## rho_d3.m & rho_d5.m
+
+Ensembles {\rho_x}_{x=1}^{m}, with (d,m) = (3,5) and (d,m) = (5,3), used in the paper to evaluate the performance of the different optimization methods.
 
 ## Unitary randomization
 
