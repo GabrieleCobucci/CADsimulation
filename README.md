@@ -22,3 +22,7 @@ It performs the classical simulation of a given ensemble, optimizing over a fixe
 
 When the ensemble has a specific structure, one can fix a starting set of simulation boxes and optimize over their unitary transformations.
 In this case the starting set of simulation boxes is the set of unitaries associated to the MUBs in a d-dimensional Hilbert space, when d is odd.
+
+# References:
+G. Cobucci, A. Bernal, M. J. Renner, A. Tavakoli (2025). Operationally classical simulation of quantum states (https://arxiv.org/abs/2502.01440)
+
